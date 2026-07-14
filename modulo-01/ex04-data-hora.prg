@@ -8,6 +8,7 @@ FUNCTION Main()
     LOCAL cCurso := "Harbour/ADVPL"
     LOCAL cDataAtual := DToC(Date())
     LOCAL cHoraAtual := Time()
+
     QQOUT("===========================")
     QOut("  FICHA DE APRESENTA��O")
     QOut("===========================")
