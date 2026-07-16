@@ -1,0 +1,1 @@
+<img src="../imagens/fluxograma-desconto-10.png" alt="Fluxograma do algoritmo" width="500">
